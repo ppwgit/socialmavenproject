@@ -1,1 +1,8 @@
-Number of unique words is: 7
+ how much each unique word was included city.US: 1
+time how much each unique word was included Tae.: 1
+time how much each unique word was included capital: 1
+time how much each unique word was included country,Bangkok: 1
+time how much each unique word was included Country: 1
+time how much each unique word was included is: 3
+time how much each unique word was included Thailand: 1
+time
